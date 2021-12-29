@@ -1,0 +1,6 @@
+75000
+1
+750
+2
+res/starsBG640.png
+res/asteroidspritesheet.png
